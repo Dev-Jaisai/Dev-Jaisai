@@ -4,7 +4,7 @@
 - 💼 I have experience in developing RESTful APIs and working with databases.
 - 💞️ I'm passionate about creating efficient and scalable solutions to solve real-world problems.
 - 📫 You can reach me through jaisaisarkates5@gmail.com 
-- 🔧 Technologies: Java, Spring Boot, Hibernate, JPA, RESTful APIs, MySQL, PostgreSQL, Git.
+- 🔧 Technologies: Java, Spring Boot,Microservices,Kafka,Hibernate, JPA, RESTful APIs, MySQL, PostgreSQL, Git.
 
 <!---
 Dev-Jaisai/Dev-Jaisai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
